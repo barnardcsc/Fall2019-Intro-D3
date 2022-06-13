@@ -1,5 +1,5 @@
 # Introduction to Data Visualization with D3
 
-Materials for our Introduction to Data Visualization with D3 workshop
+An introductory workshop on Data Visualization using D3 (Data Driven Documents), a JavaScript library for creating dynamic data visualizations.
 
-Access the guide [here.](https://github.com/Barnard-Computational-Science-Center/intro-d3/blob/master/D3_guide.md)
+Follow along by referencing the guide [here](https://github.com/Barnard-Computational-Science-Center/intro-d3/blob/master/D3_guide.md) and working through the code.
